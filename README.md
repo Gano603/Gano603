@@ -1,40 +1,60 @@
-# Hello! 👋 I'm Khawar
+# 👋 Hello! I'm Khawar
 
 ## 🚀 About Me
-- 🎓 [Your education, e.g., Computer Science graduate]
-- 💼 [Your current job or role, e.g., Full Stack Developer]
-- 🌟 [Highlight specific skills, e.g., Expert in React.js and Python]
-- 🌱 Currently learning: [New technologies you're exploring]
-- 👯 Open to collaborating on: [Interesting projects]
-- 📫 How to reach me: [Your email or LinkedIn link]
+Motivated and detail-oriented **Full Stack Developer** with hands-on experience in building dynamic, scalable web applications. I specialize in creating seamless user experiences with a strong focus on responsiveness, performance, and functionality.
 
-## 🔧 Technologies & Tools
-[Add icons or badges for your skills: see below for resources]
+- 🎓 **Education**: Bachelor's in Computer Engineering (GPA: 3.54), Air University (2021-2025)
+- 🌱 **Currently Learning**: Advanced backend systems and AI integrations
+- 👯 **Looking to Collaborate On**: Web development, scalable systems, and innovative tech solutions
+- 💼 **Experience**: 
+  - **Lead Web Developer** at AiBL (July 2024 – Present)
+  - **Back End Developer Intern** at Medology Enterprise, UK (May 2024 – July 2024)
+  - **React Developer** at Microsoft Learn Student Ambassadors (October 2023 – June 2024)
+- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/muhammad-khawar-603-cancer/) | [Email](mailto:khawar603@gmail.com) | [GitHub](https://github.com/Gano603)
+
+---
+
+## 🔧 Technical Skills
+- **Languages**: JavaScript, HTML/CSS, MongoDB, Python, C++
+- **Frameworks/Technologies**: React.js, Node.js, Express.js, Mongoose ODM, Tailwind CSS, Sass, Tkinter, Next.js, Angular.js
+- **Developer Tools**: Visual Studio Code, Git, GitHub
+- **Other Skills**: Figma, Photoshop, Premiere Pro, Assembly Language, Latex
+
+---
+
+## 📈 Projects
+### **Cheezious (Fast Food Website)** 
+[GitHub Repository](https://github.com/Gano603/Cheezious.com) | [Live Demo](https://cheezious-com.vercel.app/)
+- **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit
+- **Highlights**:
+  - Designed and implemented the front-end with Tailwind CSS
+  - Managed states using Redux Toolkit
+  - Integrated order handling with MongoDB and Axios
+  - Created a dashboard panel for viewing orders
+
+### **Other Projects**
+Explore more on my [GitHub Profile](https://github.com/Gano603)!
+
+---
 
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gano603&show_icons=true&theme=radical)](https://github.com/Gano603)
+[![Khawar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gano603&show_icons=true&theme=radical)](https://github.com/Gano603)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gano603&layout=compact&theme=radical)](https://github.com/Gano603)
+
+---
 
 ## 🏆 Achievements
-[List certifications, awards, or significant accomplishments]
+- **Microsoft Learn Student Ambassador**
+- Completed impactful internships and projects across global teams
 
-## 📈 Current Work
-[List current projects or link to repositories]
+---
 
 ## 📣 Let's Connect!
-[Add links to LinkedIn, Twitter, Portfolio]
+- **LinkedIn**: [Muhammad Khawar](https://www.linkedin.com/in/muhammad-khawar-603-cancer/)
+- **GitHub**: [Gano603](https://github.com/Gano603)
+- **Email**: [khawar603@gmail.com](mailto:khawar603@gmail.com)
 
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="react" width="40" height="40"/>
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gano603&show_icons=true&theme=radical)](https://github.com/yourusername)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gano603&theme=radical)](https://github.com/Gano603)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gano603&layout=compact)](https://github.com/Gano603)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gano603&color=green)
+### 🎨 Fun Fact
+I enjoy solving real-world problems through scalable code and always look forward to exploring cutting-edge technologies!
