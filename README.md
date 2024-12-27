@@ -37,4 +37,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Gano603&color=green)
