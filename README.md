@@ -25,7 +25,7 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 ## 📈 Projects
 
 ### **Cheezious (Fast Food Website)**  
-![Cheezious Icon](1649325481.webp)  
+<img src="images/icons/hamburger-icon.png" alt="Cheezious Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />  
 [GitHub Repository](https://github.com/Gano603/Cheezious.com) | [Live Demo](https://cheezious-com.vercel.app/)
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit
 - **Highlights**:
@@ -37,7 +37,7 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 ---
 
 ### **Chat Web App**  
-![Chat Icon](images/icons/chat-icon.png)  
+<img src="images/icons/chat-icon.png" alt="Chat Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />  
 [GitHub Repository](#) | [Live Demo](#)  
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Context API, WebSockets  
 - **Highlights**:  
@@ -49,7 +49,7 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 ---
 
 ### **Instagram Clone Web App**  
-![Instagram Icon](icon.svg)  
+<img src="images/icons/instagram-icon.png" alt="Instagram Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />  
 [GitHub Repository](https://github.com/Gano603/SnapGram) | [Live Demo](https://snap-gram-bice.vercel.app/)  
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit, Multer  
 - **Highlights**:  
