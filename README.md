@@ -10,7 +10,7 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
   - **Lead Web Developer** at AiBL (July 2024 – Present)
   - **Back End Developer Intern** at Medology Enterprise, UK (May 2024 – July 2024)
   - **React Developer** at Microsoft Learn Student Ambassadors (October 2023 – June 2024)
-- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/muhammad-khawar-603-cancer/) | [Email](mailto:khawar603@gmail.com) | [GitHub](https://github.com/Gano603)
+- 📫 **Reach Me Out On** [LinkedIn](https://www.linkedin.com/in/muhammad-khawar-603-cancer/) | [Email](mailto:khawar603@gmail.com) | [GitHub](https://github.com/Gano603)
 
 ---
 
@@ -31,6 +31,29 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
   - Managed states using Redux Toolkit
   - Integrated order handling with MongoDB and Axios
   - Created a dashboard panel for viewing orders
+
+---
+
+### **Chat Web App**  
+[GitHub Repository](#) | [Live Demo](#)  
+- **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Context API, WebSockets  
+- **Highlights**:  
+  - Designed and implemented a responsive front-end with Tailwind CSS  
+  - Managed states using React's Context API  
+  - Handled real-time messaging through WebSockets integrated with MongoDB  
+  - Added options for profile customization and message deletion  
+
+---
+
+### **Instagram Clone Web App**  
+[GitHub Repository](https://github.com/Gano603/SnapGram) | [Live Demo](https://snap-gram-bice.vercel.app/)  
+- **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit, Multer  
+- **Highlights**:  
+  - Created a responsive and visually appealing front-end using Tailwind CSS  
+  - Utilized Redux Toolkit for effective state management  
+  - Performed CRUD operations in MongoDB using Axios  
+  - Managed backend file handling for photos and videos with Multer  
+
 
 ### **Other Projects**
 Explore more on my [GitHub Profile](https://github.com/Gano603)!
