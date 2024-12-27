@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm Khawar
 
 ## 🚀 About Me
 - 🎓 [Your education, e.g., Computer Science graduate]
@@ -12,7 +12,7 @@
 [Add icons or badges for your skills: see below for resources]
 
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gano603&show_icons=true&theme=radical)](https://github.com/Gano603)
 
 ## 🏆 Achievements
 [List certifications, awards, or significant accomplishments]
@@ -31,10 +31,10 @@
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="react" width="40" height="40"/>
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gano603&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://github.com/yourusername)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gano603&theme=radical)](https://github.com/Gano603)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gano603&layout=compact)](https://github.com/Gano603)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gano603&color=green)
