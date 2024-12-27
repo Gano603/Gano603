@@ -23,7 +23,9 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 ---
 
 ## 📈 Projects
-### **Cheezious (Fast Food Website)** 
+
+### **Cheezious (Fast Food Website)**  
+![Cheezious Icon](1649325481.webp)  
 [GitHub Repository](https://github.com/Gano603/Cheezious.com) | [Live Demo](https://cheezious-com.vercel.app/)
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit
 - **Highlights**:
@@ -35,6 +37,7 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 ---
 
 ### **Chat Web App**  
+![Chat Icon](images/icons/chat-icon.png)  
 [GitHub Repository](#) | [Live Demo](#)  
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Context API, WebSockets  
 - **Highlights**:  
@@ -46,13 +49,14 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 ---
 
 ### **Instagram Clone Web App**  
+![Instagram Icon](icon.svg)  
 [GitHub Repository](https://github.com/Gano603/SnapGram) | [Live Demo](https://snap-gram-bice.vercel.app/)  
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit, Multer  
 - **Highlights**:  
   - Created a responsive and visually appealing front-end using Tailwind CSS  
   - Utilized Redux Toolkit for effective state management  
   - Performed CRUD operations in MongoDB using Axios  
-  - Managed backend file handling for photos and videos with Multer  
+  - Managed backend file handling for photos and videos with Multer
 
 
 ### **Other Projects**
