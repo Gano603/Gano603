@@ -24,7 +24,8 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 
 ## 📈 Projects
 
-<img src="1649325481.webp" alt="Cheezious Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />  ### **Cheezious (Fast Food Website)**  
+### **Cheezious (Fast Food Website)**  
+<img src="1649325481.webp" alt="Cheezious Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" /> 
 [GitHub Repository](https://github.com/Gano603/Cheezious.com) | [Live Demo](https://cheezious-com.vercel.app/)
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit
 - **Highlights**:
