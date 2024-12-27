@@ -24,8 +24,7 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 
 ## 📈 Projects
 
-### **Cheezious (Fast Food Website)**  
-<img src="1649325481.webp" alt="Cheezious Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />  
+<img src="1649325481.webp" alt="Cheezious Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />  ### **Cheezious (Fast Food Website)**  
 [GitHub Repository](https://github.com/Gano603/Cheezious.com) | [Live Demo](https://cheezious-com.vercel.app/)
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit
 - **Highlights**:
@@ -49,7 +48,7 @@ Motivated and detail-oriented **Full Stack Developer** with hands-on experience 
 ---
 
 ### **Instagram Clone Web App**  
-<img src="icon.svg" alt="Instagram Icon" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" />  
+![Instagram Icon](icon.svg)  
 [GitHub Repository](https://github.com/Gano603/SnapGram) | [Live Demo](https://snap-gram-bice.vercel.app/)  
 - **Tech Stack**: React.js, Tailwind CSS, MongoDB, Express.js, Redux Toolkit, Multer  
 - **Highlights**:  
